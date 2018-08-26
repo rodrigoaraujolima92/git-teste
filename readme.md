@@ -1,0 +1,3 @@
+#bitgit
+
+init repositorio
